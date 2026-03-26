@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ディスコの神様 feat.藤井隆（feat. 藤井隆）",
+  "base_artist": "tofubeats",
+  "createdAt": "2026-03-26T15:25:42.183100Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディスコの神様 feat. 藤井隆",
+      "artist": "tofubeats",
+      "has_synced": false,
+      "path": "select/pl_01_ディスコの神様_feat._藤井隆_tofubeats.txt"
+    }
+  ]
+}
